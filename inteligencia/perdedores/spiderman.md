@@ -7,3 +7,9 @@ Spiderman es un superhéroe ficticio
 
 - Doctor Octopus
 - Green Goblin
+
+## Familiares
+
+- Tía May
+- Tío Ben
+- Richard Parker (padre)
