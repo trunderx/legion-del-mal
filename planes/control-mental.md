@@ -9,3 +9,8 @@ Estos son los planes de control mental que se pueden usar en el juego. Cada plan
 2. Asegúrate de tener sufiecientes puntos de control mental para activar rl plan.
 3. Aplica el afecto dl plan de control mental según las reglas del juego.
 4. Registra el uso del plan de control mental en tu hoja de personaje o en el registro del juego.
+
+
+## Plan de escape
+
+- En caso de que el proceso de congelación falle o se presenten
