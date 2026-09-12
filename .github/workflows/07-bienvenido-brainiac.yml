@@ -23,8 +23,8 @@ jobs:
                           '',
                           'Tu issue ha sido registrado en mi banco de dato y **está siendo revisado por Brainiac.',
                           '',
-                          `- Issue: #${context.payload.issue.number}`,
-                          `- Titulo: ${context.payload.issue.title}`,
+                          '- Issue: #${context.payload.issue.number}',
+                          '- Titulo: ${context.payload.issue.title}',
                           '',
                           '_Mi intelecto de nivel 12 procesará tu solicitud en breve._'
                       ].join('\n');
