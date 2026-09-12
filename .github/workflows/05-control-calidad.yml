@@ -15,5 +15,5 @@ jobs:
         uses: actions/checkout@v4
       - name: El consejo revisa los cambios
         run: |
-          chmod +x scrips/validar-planes.sh
+          chmod +x scripts/validar-planes.sh
           ./scrips/validar-planes.sh
