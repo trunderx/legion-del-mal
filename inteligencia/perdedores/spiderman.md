@@ -20,3 +20,8 @@ Spiderman es un superhéroe ficticio
 - Spiderman: Far from home
 - Spiderman: Into the speder-verse
 - Spiderman: Homecoming
+
+
+## Estrategia recomendada
+
+Se recomienda 
